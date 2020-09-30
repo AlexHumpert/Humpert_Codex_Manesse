@@ -1,7 +1,7 @@
 # Klaus Humpert, Kodex Manesse Recherche
-[Recherche von Klaus Humpert zum Codex Manesse](https://drive.google.com/drive/folders/1B16cZi4xWiiXFVt3gJxRfOIMn5evecbM)
+[Recherche Datenbank von Klaus Humpert zum Kodex Manesse](https://drive.google.com/drive/folders/1B16cZi4xWiiXFVt3gJxRfOIMn5evecbM)
 
-# Forschungsübersicht: [Die verborgenen geometrischen Konstruktionen in den Bildern der Manesse-Liederhandschrift](https://github.com/AlexHumpert/Klaus-Research-Overview)
+# Forschungsübersicht: Die verborgenen geometrischen Konstruktionen in den Bildern der Manesse-Liederhandschrift
 
 ## (Deutsch)
 #### Einführung
@@ -9,5 +9,4 @@
 
 ## (English)
 #### Introduction
-
 "The geometry of images is not an invention of the Renaissance. At least a century before Masaccio, unknown miniaturists used stencils and rulers to measure their compositions precisely. For Klaus Humpert, professor emeritus for urban planning and long-time head of the Freiburg urban planning office, it has long been no question that the panels of the most famous song manuscript of the Middle Ages, the Codex Manesse, were designed with quasi mathematical meticulousness, with the help of grids, Circle templates and strict lines." [(Badische Zeitung)](https://www.badische-zeitung.de/klaus-humpert-praesentiert-seine-studie-zum-codex-manesse--83293546.html)
