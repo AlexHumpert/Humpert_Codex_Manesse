@@ -1,4 +1,4 @@
-# Klaus Humpert, Codex Manesse Recherche
+# Klaus Humpert, Kodex Manesse Recherche
 [Recherche von Klaus Humpert zum Codex Manesse](https://drive.google.com/drive/folders/1B16cZi4xWiiXFVt3gJxRfOIMn5evecbM)
 
 # Forschungsübersicht: [Die verborgenen geometrischen Konstruktionen in den Bildern der Manesse-Liederhandschrift](https://github.com/AlexHumpert/Klaus-Research-Overview)
